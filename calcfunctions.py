@@ -9,3 +9,6 @@ def divmod2(x, y):
   rem = x % y
   return quot, rem
 
+def weman(x, y):
+  wemwo = x * y**y * x + y
+  return wemwo
