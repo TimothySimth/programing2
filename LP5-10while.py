@@ -6,4 +6,4 @@ while num2 > 0:
   num1 = num2
   num2 = temp
 
-print("GCD is :", num2)
+print("GCD is :", num1)
