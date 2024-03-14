@@ -3,6 +3,7 @@ from CL213f import Cl213f
 def main():
   try:
     elecbill = []
+    kwh = 0
     with open("Langdat/prog213f.dat", 'r') as f:
       for line in f:
         kwh = int(line)
