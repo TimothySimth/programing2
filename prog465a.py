@@ -33,6 +33,5 @@ def main():
   mLargest = maxMatrices(mat1, mat2)
   print("\nLargest Elements:")
   printMatrix(mLargest)
-
 if __name__ == "__main__":
   main()
