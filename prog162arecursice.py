@@ -1,5 +1,5 @@
 import sys
-sys.setrecursionlimit(10000)
+sys.setrecursionlimit(5000)
 def factLoop(n):
   prod = 1
   for num in range(n, 0, -1):
