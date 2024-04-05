@@ -1,10 +1,5 @@
 import sys
 sys.setrecursionlimit(5000)
-def factLoop(n):
-  prod = 1
-  for num in range(n, 0, -1):
-    prod *= num
-  return prod
 def fact(n):
   if n <= 1: return n
   return n * fact(n-1)
