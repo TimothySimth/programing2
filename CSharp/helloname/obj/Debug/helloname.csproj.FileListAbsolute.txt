@@ -1,0 +1,6 @@
+C:\Users\smith.t7\Desktop\programingll\C#\CSharp\helloname\bin\Debug\helloname.exe.config
+C:\Users\smith.t7\Desktop\programingll\C#\CSharp\helloname\bin\Debug\helloname.exe
+C:\Users\smith.t7\Desktop\programingll\C#\CSharp\helloname\bin\Debug\helloname.pdb
+C:\Users\smith.t7\Desktop\programingll\C#\CSharp\helloname\obj\Debug\helloname.csprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programingll\C#\CSharp\helloname\obj\Debug\helloname.exe
+C:\Users\smith.t7\Desktop\programingll\C#\CSharp\helloname\obj\Debug\helloname.pdb
