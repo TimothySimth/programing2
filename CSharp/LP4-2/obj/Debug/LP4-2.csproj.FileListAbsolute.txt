@@ -1,0 +1,5 @@
+C:\Users\smith.t7\Desktop\programing2\CSharp\LP4-2\bin\Debug\LP4-2.exe.config
+C:\Users\smith.t7\Desktop\programing2\CSharp\LP4-2\bin\Debug\LP4-2.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\LP4-2\bin\Debug\LP4-2.pdb
+C:\Users\smith.t7\Desktop\programing2\CSharp\LP4-2\obj\Debug\LP4-2.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\LP4-2\obj\Debug\LP4-2.pdb

@@ -4,3 +4,9 @@ C:\Users\smith.t7\Desktop\programingll\C#\CSharp\prog54cConsle\bin\Debug\prog54c
 C:\Users\smith.t7\Desktop\programingll\C#\CSharp\prog54cConsle\obj\Debug\prog54cConsle.exe
 C:\Users\smith.t7\Desktop\programingll\C#\CSharp\prog54cConsle\obj\Debug\prog54cConsle.pdb
 C:\Users\smith.t7\Desktop\programingll\C#\CSharp\prog54cConsle\obj\Debug\prog54cConsle.csprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog54cConsle\bin\Debug\prog54cConsle.exe.config
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog54cConsle\obj\Debug\prog54cConsle.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog54cConsle\obj\Debug\prog54cConsle.pdb
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog54cConsle\bin\Debug\prog54cConsle.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog54cConsle\bin\Debug\prog54cConsle.pdb
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog54cConsle\obj\Debug\prog54cConsle.csprojResolveAssemblyReference.cache
