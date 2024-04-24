@@ -1,0 +1,9 @@
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg266\bin\Debug\pg266.exe.config
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg266\bin\Debug\pg266.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg266\bin\Debug\pg266.pdb
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg266\obj\Debug\pg266.csprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg266\obj\Debug\pg266.Form1.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg266\obj\Debug\pg266.Properties.Resources.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg266\obj\Debug\pg266.csproj.GenerateResource.Cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg266\obj\Debug\pg266.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg266\obj\Debug\pg266.pdb
