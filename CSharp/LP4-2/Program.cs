@@ -8,8 +8,8 @@ namespace LP4_2 {
     class Program {
         static void Main(string[] args)
         {
-            Console.Write("Enter weight:"); int weight = int.Parse(Console.ReadLine());
-            Console.Write("Enter length:"); int length = int.Parse(Console.ReadLine());
+            Console.Write("Enter weight:");  int weight = int.Parse(Console.ReadLine());
+            Console.Write("Enter length:");  int length = int.Parse(Console.ReadLine());
             Console.Write("Enter  width:");  int width = int.Parse(Console.ReadLine());
             Console.Write("Enter  hight:");  int hight = int.Parse(Console.ReadLine());
 

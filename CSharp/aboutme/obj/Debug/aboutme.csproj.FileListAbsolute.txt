@@ -1,0 +1,8 @@
+C:\Users\smith.t7\Desktop\programing2\CSharp\aboutme\bin\Debug\aboutme.exe.config
+C:\Users\smith.t7\Desktop\programing2\CSharp\aboutme\bin\Debug\aboutme.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\aboutme\bin\Debug\aboutme.pdb
+C:\Users\smith.t7\Desktop\programing2\CSharp\aboutme\obj\Debug\aboutme.Form1.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\aboutme\obj\Debug\aboutme.Properties.Resources.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\aboutme\obj\Debug\aboutme.csproj.GenerateResource.Cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\aboutme\obj\Debug\aboutme.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\aboutme\obj\Debug\aboutme.pdb

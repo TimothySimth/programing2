@@ -1,0 +1,9 @@
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg273Bookclub\bin\Debug\pg273Bookclub.exe.config
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg273Bookclub\obj\Debug\pg273Bookclub.csprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg273Bookclub\obj\Debug\pg273Bookclub.Form1.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg273Bookclub\obj\Debug\pg273Bookclub.Properties.Resources.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg273Bookclub\obj\Debug\pg273Bookclub.csproj.GenerateResource.Cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg273Bookclub\bin\Debug\pg273Bookclub.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg273Bookclub\bin\Debug\pg273Bookclub.pdb
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg273Bookclub\obj\Debug\pg273Bookclub.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg273Bookclub\obj\Debug\pg273Bookclub.pdb
