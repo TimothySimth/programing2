@@ -1,0 +1,9 @@
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog122bwhile\bin\Debug\prog122bwhile.exe.config
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog122bwhile\bin\Debug\prog122bwhile.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog122bwhile\bin\Debug\prog122bwhile.pdb
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog122bwhile\obj\Debug\prog122bwhile.csprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog122bwhile\obj\Debug\prog122bwhile.Form1.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog122bwhile\obj\Debug\prog122bwhile.Properties.Resources.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog122bwhile\obj\Debug\prog122bwhile.csproj.GenerateResource.Cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog122bwhile\obj\Debug\prog122bwhile.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\prog122bwhile\obj\Debug\prog122bwhile.pdb
