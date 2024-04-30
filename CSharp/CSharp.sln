@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog122bwhile", "prog122bwh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg273Massandweight", "pg273Massandweight\pg273Massandweight.csproj", "{65BACB91-F9E4-4311-9866-AA888700B740}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog310a", "prog310a\prog310a.csproj", "{E2D5E55A-59CA-4759-990D-3AEA7D7795A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg347sum", "pg347sum\pg347sum.csproj", "{214D6778-7226-4A20-A0CF-F31C6CC8DFF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{65BACB91-F9E4-4311-9866-AA888700B740}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65BACB91-F9E4-4311-9866-AA888700B740}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65BACB91-F9E4-4311-9866-AA888700B740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D5E55A-59CA-4759-990D-3AEA7D7795A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D5E55A-59CA-4759-990D-3AEA7D7795A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D5E55A-59CA-4759-990D-3AEA7D7795A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D5E55A-59CA-4759-990D-3AEA7D7795A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214D6778-7226-4A20-A0CF-F31C6CC8DFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214D6778-7226-4A20-A0CF-F31C6CC8DFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214D6778-7226-4A20-A0CF-F31C6CC8DFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214D6778-7226-4A20-A0CF-F31C6CC8DFF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
