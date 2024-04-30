@@ -21,7 +21,7 @@ namespace prog122bwhile
         {
 
             listBox1.Items.Clear();
-            listBox1.Items.Add("Number\t\tSquare\t\tPay");
+            listBox1.Items.Add("Number\t\tPay");
 
             int lcv = 1;
             while (lcv <= 40)

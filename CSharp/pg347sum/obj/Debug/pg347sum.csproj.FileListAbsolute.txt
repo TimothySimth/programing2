@@ -1,0 +1,4 @@
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\obj\Debug\pg347sum.Form1.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\obj\Debug\pg347sum.Properties.Resources.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\obj\Debug\pg347sum.csproj.GenerateResource.cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\obj\Debug\pg347sum.csproj.CoreCompileInputs.cache
