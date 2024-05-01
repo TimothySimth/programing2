@@ -1,0 +1,9 @@
+C:\Users\smith.t7\Desktop\programing2\CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\smith.t7\Desktop\programing2\CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\smith.t7\Desktop\programing2\CSharp\WindowsFormsApplication1\obj\Debug\prog122dfor.csprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\WindowsFormsApplication1\obj\Debug\prog122dfor.csproj.GenerateResource.Cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

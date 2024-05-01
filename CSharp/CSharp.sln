@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog310a", "prog310a\prog31
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg347sum", "pg347sum\pg347sum.csproj", "{214D6778-7226-4A20-A0CF-F31C6CC8DFF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog122dfor", "WindowsFormsApplication1\prog122dfor.csproj", "{9C4FCC97-CC69-45D7-A59A-90CB6408E6CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{214D6778-7226-4A20-A0CF-F31C6CC8DFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{214D6778-7226-4A20-A0CF-F31C6CC8DFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{214D6778-7226-4A20-A0CF-F31C6CC8DFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4FCC97-CC69-45D7-A59A-90CB6408E6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4FCC97-CC69-45D7-A59A-90CB6408E6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4FCC97-CC69-45D7-A59A-90CB6408E6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4FCC97-CC69-45D7-A59A-90CB6408E6CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
