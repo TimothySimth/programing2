@@ -66,7 +66,7 @@
             // 
             this.button3.Location = new System.Drawing.Point(636, 358);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(358, 88);
+            this.button3.Size = new System.Drawing.Size(347, 88);
             this.button3.TabIndex = 3;
             this.button3.Text = "Exit";
             this.button3.UseVisualStyleBackColor = true;
@@ -76,7 +76,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(995, 448);
+            this.ClientSize = new System.Drawing.Size(984, 448);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.listBox1);
