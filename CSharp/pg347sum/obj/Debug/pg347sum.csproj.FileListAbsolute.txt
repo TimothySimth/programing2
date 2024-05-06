@@ -1,4 +1,9 @@
 C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\obj\Debug\pg347sum.Form1.resources
 C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\obj\Debug\pg347sum.Properties.Resources.resources
 C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\obj\Debug\pg347sum.csproj.GenerateResource.cache
-C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\obj\Debug\pg347sum.csproj.CoreCompileInputs.cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\bin\Debug\pg347sum.exe.config
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\obj\Debug\pg347sum.csprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\bin\Debug\pg347sum.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\bin\Debug\pg347sum.pdb
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\obj\Debug\pg347sum.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg347sum\obj\Debug\pg347sum.pdb

@@ -31,12 +31,14 @@ namespace Pg334LoanCalculator
             int downpayment = int.Parse(textBox2.Text);
             int numbermounths = int.Parse(textBox3.Text);
             double anualintrestrate = double.Parse(textBox4.Text);
+            int num1 = costofcar - downpayment;
+            const double new_rate = 0.089;
+            const double used_rate = 0.095;
 
 
-            if (radioButton1.Checked) Ncar = 0.089;
-            if (radioButton2.Checked) Ncar = 0.095; 
             
             
+
             
             {
 
