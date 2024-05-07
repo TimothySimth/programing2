@@ -22,6 +22,7 @@ namespace pg347sum
         {
             string variable = Interaction.InputBox("Prompt here", "Title");
             MessageBox.Show(variable);
+            for 
         }
     }
 }

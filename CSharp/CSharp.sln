@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg334LoanCalculator", "Pg33
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcWithFunctions", "CalcWithFunctions\CalcWithFunctions.csproj", "{67613515-955F-48A0-91D7-C18B538AC2EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg366b", "pg366b\pg366b.csproj", "{FA244243-2B46-415F-87B5-F623A74110B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{67613515-955F-48A0-91D7-C18B538AC2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67613515-955F-48A0-91D7-C18B538AC2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67613515-955F-48A0-91D7-C18B538AC2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA244243-2B46-415F-87B5-F623A74110B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA244243-2B46-415F-87B5-F623A74110B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA244243-2B46-415F-87B5-F623A74110B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA244243-2B46-415F-87B5-F623A74110B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
