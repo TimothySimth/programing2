@@ -1,0 +1,10 @@
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg435ticketsales\bin\Debug\pg435ticketsales.exe.config
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg435ticketsales\obj\Debug\pg435ticketsales.Form1.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg435ticketsales\obj\Debug\pg435ticketsales.Genaralform.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg435ticketsales\obj\Debug\pg435ticketsales.Properties.Resources.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg435ticketsales\obj\Debug\pg435ticketsales.studentdorm.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg435ticketsales\obj\Debug\pg435ticketsales.csproj.GenerateResource.Cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg435ticketsales\bin\Debug\pg435ticketsales.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg435ticketsales\bin\Debug\pg435ticketsales.pdb
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg435ticketsales\obj\Debug\pg435ticketsales.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg435ticketsales\obj\Debug\pg435ticketsales.pdb
