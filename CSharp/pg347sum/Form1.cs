@@ -20,12 +20,22 @@ namespace pg347sum
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string variable = Interaction.InputBox("Prompt here", "Title");
-            MessageBox.Show(variable);
-            int lcv = 1;
-            while (lcv <= 
+            int variable = int.Parse(Interaction.InputBox("Prompt here", "Title"));
+            int x = 0;
+            for (int lcv = 0; lcv <= variable; lcv++) {
+               x += lcv;
+            }
+            MessageBox.Show(x.ToString());
+            
+            
 
             
         
     }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
+}
