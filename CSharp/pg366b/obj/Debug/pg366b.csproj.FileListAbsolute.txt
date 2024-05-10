@@ -1,0 +1,9 @@
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg366b\bin\Debug\pg366b.exe.config
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg366b\bin\Debug\pg366b.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg366b\bin\Debug\pg366b.pdb
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg366b\obj\Debug\pg366b.csprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg366b\obj\Debug\pg366b.Form1.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg366b\obj\Debug\pg366b.Properties.Resources.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg366b\obj\Debug\pg366b.csproj.GenerateResource.Cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg366b\obj\Debug\pg366b.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg366b\obj\Debug\pg366b.pdb
