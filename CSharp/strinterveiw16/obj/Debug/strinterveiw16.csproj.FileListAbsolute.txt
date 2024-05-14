@@ -1,0 +1,5 @@
+C:\Users\smith.t7\Desktop\programing2\CSharp\strinterveiw16\bin\Debug\strinterveiw16.exe.config
+C:\Users\smith.t7\Desktop\programing2\CSharp\strinterveiw16\bin\Debug\strinterveiw16.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\strinterveiw16\bin\Debug\strinterveiw16.pdb
+C:\Users\smith.t7\Desktop\programing2\CSharp\strinterveiw16\obj\Debug\strinterveiw16.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\strinterveiw16\obj\Debug\strinterveiw16.pdb

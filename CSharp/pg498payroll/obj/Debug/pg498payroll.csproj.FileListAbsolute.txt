@@ -1,0 +1,9 @@
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg498payroll\bin\Debug\pg498payroll.exe.config
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg498payroll\bin\Debug\pg498payroll.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg498payroll\bin\Debug\pg498payroll.pdb
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg498payroll\obj\Debug\pg498payroll.csprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg498payroll\obj\Debug\pg498payroll.Form1.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg498payroll\obj\Debug\pg498payroll.Properties.Resources.resources
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg498payroll\obj\Debug\pg498payroll.csproj.GenerateResource.Cache
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg498payroll\obj\Debug\pg498payroll.exe
+C:\Users\smith.t7\Desktop\programing2\CSharp\pg498payroll\obj\Debug\pg498payroll.pdb
