@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strinterview7", "strintervi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strinterveiw16", "strinterveiw16\strinterveiw16.csproj", "{27EC49BB-CE26-4081-B6E7-F7847A2E5DCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "text", "text\text.csproj", "{6B64FEF9-3024-4DDD-A97C-29F1BECD6BC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{27EC49BB-CE26-4081-B6E7-F7847A2E5DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27EC49BB-CE26-4081-B6E7-F7847A2E5DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27EC49BB-CE26-4081-B6E7-F7847A2E5DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B64FEF9-3024-4DDD-A97C-29F1BECD6BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B64FEF9-3024-4DDD-A97C-29F1BECD6BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B64FEF9-3024-4DDD-A97C-29F1BECD6BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B64FEF9-3024-4DDD-A97C-29F1BECD6BC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
